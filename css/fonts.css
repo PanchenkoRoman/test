@@ -1,0 +1,32 @@
+@font-face {
+    font-family: Panton; /* Имя шрифта */
+    src: url(../fonts/PantonExtraBold.otf); /* Путь к файлу со шрифтом */
+}
+
+
+
+@font-face {
+    font-family: PantonHeavy; /* Имя шрифта */
+    src: url(../fonts/PantonHeavy.otf); /* Путь к файлу со шрифтом */
+}
+
+@font-face {
+    font-family: PantonHeavy;
+    src: url('../fonts/pantonheavy-webfont.woff2') format('woff2'),
+         url('../fonts/pantonheavy-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+@font-face {
+    font-family: Panton;
+    src: url('../fonts/pantonextrabold-webfont.woff2') format('woff2'),
+         url('../fonts/pantonextrabold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
